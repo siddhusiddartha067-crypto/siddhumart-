@@ -1,0 +1,13 @@
+
+{
+  "id": "/siddhumart/",
+  "name": "SiddhuMart - Online Shopping",
+  "short_name": "SiddhuMart",
+  "description": "Shop electronics, mobiles, fashion, books, home products and more with SiddhuMart.",
+  "start_url": "/siddhumart/",
+  "scope": "/siddhumart/",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "icons": []
+}
